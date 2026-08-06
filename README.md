@@ -50,11 +50,16 @@ Plant disease detection system using EfficientNet, achieving **94% accuracy** ac
   <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=aboutharshith17-cpu&repo=EduBridge-AI&theme=nord&border_color=7dd3fc&title_color=7dd3fc" />
 </p>
 
+Full-stack platform for personalized student guidance and resource management. Integrates AI-powered career recommendations, scholarship matching, and internship tracking using LLMs/RAG over REST APIs, with JWT authentication, role-based access control, mentor-student networking, and real-time notifications. Ships a responsive, multilingual dashboard with analytics and progress tracking, deployed via Docker on AWS/Render.
+
 | Layer | Technology |
 |---|---|
+| Frontend | React.js |
 | Backend | FastAPI |
-| AI | LangChain |
-| Database | MongoDB, PostgreSQL |
+| AI | LLMs, RAG |
+| Auth | JWT, Role-Based Access Control |
+| Database | PostgreSQL, MongoDB |
+| Deployment | Docker, AWS / Render |
 
 🔗 [Code](https://github.com/aboutharshith17-cpu/EduBridge-AI.git)
 
@@ -72,7 +77,7 @@ Plant disease detection system using EfficientNet, achieving **94% accuracy** ac
 
 **Backend / Infra**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,docker,postgres,mongodb" />
+  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,docker,postgres,mongodb,aws" />
 </p>
 
 **AI / ML / Tools**
