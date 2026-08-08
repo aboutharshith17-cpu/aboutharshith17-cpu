@@ -17,7 +17,7 @@
 const harshith = {
   title: "Full Stack Developer | DevOps Enthusiast",
   stack: ["C++", "Python", "C", "JavaScript", "React.js", "FastAPI", "Docker", "PostgreSQL", "MongoDB"],
-  launchedProjects: ["Plant Disease Detection System (94% accuracy)", "EduBridge AI"],
+  launchedProjects: ["BlockChain-Voting", "Plant Disease Detection System (94% accuracy)", "EduBridge AI"],
   certifications: [],
   status: "Building and shipping full stack + AI powered projects",
   openTo: "Collaborations and interesting engineering problems",
