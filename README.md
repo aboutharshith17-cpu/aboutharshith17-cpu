@@ -15,7 +15,7 @@
 
 ```typescript
 const harshith = {
-  title: "Full Stack Developer | DevOps | AI/ML Enthusiast",
+  title: "Full Stack Developer | DevOps | AI/ML Enthusiast"
   stack: ["C++", "Python", "C", "JavaScript", "React.js", "FastAPI", "Docker", "PostgreSQL", "MongoDB"],
   launchedProjects: ["BlockChain-Voting", "Plant Disease Detection System (94% accuracy)", "EduBridge AI"],
   certifications: [],
