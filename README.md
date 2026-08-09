@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=200&section=header&text=Harshith%20Kumar%20H%20S&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20DevOps%20Enthusiast&descAlignY=55&descSize=18)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=200&section=header&text=Harshith%20Kumar%20H%20S&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI/ML%20Enthusiast&descAlignY=55&descSize=18)
 
 <a href="https://github.com/aboutharshith17-cpu">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;DevOps+Enthusiast;Building+with+React%2C+FastAPI+%26+Docker;Exploring+AI%2FML+and+LangChain" alt="Typing SVG" />
