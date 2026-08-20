@@ -77,12 +77,12 @@ Full-stack platform for personalized student guidance and resource management. I
 
 **Backend / Infra**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,docker,postgres,mongodb,aws" />
+  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,docker,mysql,postgres,mongodb,aws" />
 </p>
 
 **AI / ML / Tools**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=tensorflow,opencv,postman" />
+  <img src="https://skillicons.dev/icons?i=numpy,pandas,langchain,tensorflow,opencv,postman" />
 </p>
 
 ## GitHub Stats
