@@ -82,7 +82,7 @@ Full-stack platform for personalized student guidance and resource management. I
 
 **AI / ML / Tools**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=numpy,pandas,langchain,tensorflow,opencv,postman" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,opencv,postman" />
 </p>
 
 ## GitHub Stats
