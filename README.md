@@ -23,6 +23,27 @@ const harshith = {
   openTo: "Collaborations and interesting engineering problems",
 };
 ```
+## Tech Stack
+
+**Languages**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,python,c" />
+</p>
+
+**Frontend**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind" />
+</p>
+
+**Backend / Infra**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,linux,docker,mysql,postgres,mongodb,aws" />
+</p>
+
+**AI / ML / Tools**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=tensorflow,opencv,postman,git" />
+</p>
 
 ## Featured Projects
 
@@ -62,28 +83,6 @@ Full-stack platform for personalized student guidance and resource management. I
 | Deployment | Docker, AWS / Render |
 
 🔗 [Code](https://github.com/aboutharshith17-cpu/EduBridge-AI.git)
-
-## Tech Stack
-
-**Languages**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,python,c" />
-</p>
-
-**Frontend**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind" />
-</p>
-
-**Backend / Infra**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,docker,mysql,postgres,mongodb,aws" />
-</p>
-
-**AI / ML / Tools**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=tensorflow,opencv,postman" />
-</p>
 
 ## GitHub Stats
 
