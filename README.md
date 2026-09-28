@@ -27,7 +27,7 @@ const harshith = {
 
 **Languages**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,python,c" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,c,javascript" />
 </p>
 
 **Frontend**
